@@ -18,6 +18,6 @@ SpoofDeck is an Open Source project created as an extension to [FalconOne](https
 - Python
 - Bash
 
-## Deployement
+## Installation/Usage
 
 In Progress...
